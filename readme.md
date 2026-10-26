@@ -2,5 +2,5 @@
 
 ## Instalacion del Sistema
 
-#Comandos:
+Comandos:
 * *pip install -r requirements.txt*
