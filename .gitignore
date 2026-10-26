@@ -1,0 +1,5 @@
+*.sql
+*.env
+*.sqlite3
+events.log
+manage.py
